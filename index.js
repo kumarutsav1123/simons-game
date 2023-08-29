@@ -1,4 +1,14 @@
+/* TODO:
+* v 1.0 -Commit date August 29th, core game working, 1 known bug, 2 features needed.
+!Bugs
+.   1. Game not restarting after 'gameover'
 
+?Features
+    1. Add sounds on click, and on loss
+    2. Add a delay before showing the next pattern animation
+
+
+*/
 
 
 var arrPattern = [];
